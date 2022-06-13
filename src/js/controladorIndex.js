@@ -1,7 +1,7 @@
-var nombre = "JAMEZ RODRIGUEZ"
+var nombre = "JAMEZ RODRIGUEZ";
 
-if(true){
-    var nombre = "lucho diaz"
-
+if (true) {
+  var nombre = "lucho diaz";
 }
-console.log("hola"+nombre)
+console.log("hola" + nombre);
+console.log("hola");
